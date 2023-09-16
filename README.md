@@ -14,7 +14,7 @@
 
 📫 You can reach me <a href="https://t.me/plavlusha">here.</a> 
 
-## Top skills
+## My skills
 
 ![Flutter](https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=Flutter&logoColor=blue)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
