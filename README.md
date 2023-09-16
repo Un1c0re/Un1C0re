@@ -1,16 +1,29 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+<h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there!</h2>
+<h3 align="center">I'm Un1C0re, a software engineer from Russia</h3>
 
-<!--
-**Un1c0re/Un1C0re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## About me
 
-Here are some ideas to get you started:
+🧑🏻‍💻 I started my career as a programmer by studying c, c++, object-oriented programming and algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 In continuation, I studied computer architecture, assembler and programming of industrial controllers.
+
+🧠 Now I am gaining experience in mobile development using Flutter.
+
+🧑🏻‍🎤 In addition to programming, I play in a band.
+
+📫 You can reach me <a href="https://t.me/plavlusha">here.</a> 
+
+## Top skills
+
+![Flutter](https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=Flutter&logoColor=blue)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySql-orange?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-444467?style=for-the-badge&logo=JavaScript)
+![Python](https://img.shields.io/badge/python-9999aa?style=for-the-badge&logo=Python)
+![C++](https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-gray?style=for-the-badge&logo=c&logoColor=white)
