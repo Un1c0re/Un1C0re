@@ -1,4 +1,4 @@
-<h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there!</h2>
+<h2 align="center">  ✌🏻Hi there!</h2>
 <h3 align="center">I'm Un1C0re, a software engineer from Russia</h3>
 
 ---
