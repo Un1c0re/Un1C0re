@@ -12,7 +12,7 @@
 
 🧠 In addition to work, I am gaining experience in mobile development using Flutter.
 
-🧑🏻‍🎤 Also I play in a math-rock midwest-emo band "meow!".
+🧑🏻‍🎤 Also play a math-rock and midwest-emo.
 
 📫 You can reach me <a href="https://t.me/plavlusha">here.</a> 
 
